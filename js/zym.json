@@ -1,0 +1,14 @@
+{
+    "SiteUrl": "https://ziyuanmiao.com",
+    "Classes": [
+        {
+            "type_name": "视频",
+            "type_id": "8"
+        },
+        {
+            "type_name": "短剧",
+            "type_id": "2"
+        }
+    ],
+    "Cookie": "bbs_sid=cc7g2nftr8rceev38g27p90dps; bbs_token=ZP4SlaPGfXiKnSyX0I1PFka5g8TznYGe62hTr57Lr1JcHLz3; _xn_accesscount_visited=1"
+}
